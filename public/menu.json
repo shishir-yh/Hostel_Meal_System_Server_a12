@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "title": "BBQ Variety Meats",
+        "category": "Dinner",
+        "image": "https://i.ibb.co.com/nMGhc1j/bbq-with-variety-meats-complete-with-tomatoes-bell-peppers-white-plate-1.jpg",
+        "rating": 4.8,
+        "price": 25.99,
+        "details": "A delicious platter of BBQ meats served with fresh tomatoes and bell peppers."
+    },
+    {
+        "id": 2,
+        "title": "Beef Kebab with Lavash",
+        "category": "Lunch",
+        "image": "https://i.ibb.co.com/mN8ZZPR/beef-kebab-lavash-onion-greens-bulgur.jpg",
+        "rating": 4.6,
+        "price": 18.99,
+        "details": "Juicy beef kebabs served with lavash, onions, and bulgur."
+    },
+    {
+        "id": 3,
+        "title": "Chicken with Herbs",
+        "category": "Breakfast",
+        "image": "https://i.ibb.co.com/7n3VFww/chicken-tomatoes-colorful-spices-chicken-with-onion-herbs-lemon.jpg",
+        "rating": 4.7,
+        "price": 22.49,
+        "details": "Roasted chicken seasoned with herbs and served with onions and lemons."
+    },
+    {
+        "id": 4,
+        "title": "Club Sandwich & Fries",
+        "category": "Breakfast",
+        "image": "https://i.ibb.co.com/TKthxyG/club-sandwich-with-cheese-cucumber-tomato-smoked-meat-salami-served-with-french-fries-1.jpg",
+        "rating": 4.3,
+        "price": 12.99,
+        "details": "Classic club sandwich with cheese, tomato, and smoked meat served with fries."
+    },
+    {
+        "id": 5,
+        "title": "Fish in Creamy Sauce",
+        "category": "Breakfast",
+        "image": "https://i.ibb.co.com/XkRGXGM/fish-creamy-sauce-carrot-bell-peppers-celery-top-view-1.jpg",
+        "rating": 4.9,
+        "price": 26.99,
+        "details": "Tender fish fillet served in a rich creamy sauce with fresh vegetables."
+    },
+    {
+        "id": 6,
+        "title": "Moroccan Sausage Stew",
+        "category": "Dinner",
+        "image": "https://i.ibb.co.com/NVrcJ7W/moroccan-stew-with-sausages.jpg",
+        "rating": 4.8,
+        "price": 23.99,
+        "details": "A flavorful Moroccan stew with sausages and aromatic spices."
+    },
+    {
+        "id": 7,
+        "title": "Fried Chicken Breast",
+        "category": "Breakfast",
+        "image": "https://i.ibb.co.com/x5nDWjV/side-view-fried-chicken-breast-with-vegetables-sauce.jpg",
+        "rating": 4.7,
+        "price": 24.99,
+        "details": "Crispy fried chicken breast served with vegetables and a rich sauce."
+    },
+    {
+        "id": 8,
+        "title": "Stew Chicken & Veggies",
+        "category": "Lunch",
+        "image": "https://i.ibb.co.com/1bHqRLj/stew-chicken-with-vegetables-mushrooms-cream-sauce-1-1.jpg",
+        "rating": 4.8,
+        "price": 21.99,
+        "details": "A creamy stew with chicken, mushrooms, and fresh vegetables."
+    },
+    {
+        "id": 9,
+        "title": "Shrimp Salad",
+        "category": "Breakfast",
+        "image": "https://i.ibb.co.com/x5nDWjV/side-view-fried-chicken-breast-with-vegetables-sauce.jpg",
+        "rating": 4.6,
+        "price": 13.99,
+        "details": "Fresh shrimp salad with peaches, avocado, and lettuce."
+    },
+    {
+        "id": 10,
+        "title": "Pad Thai Noodles",
+        "category": "Lunch",
+        "image": "https://i.ibb.co.com/NVrcJ7W/moroccan-stew-with-sausages.jpg",
+        "rating": 4.5,
+        "price": 15.99,
+        "details": "Classic Thai noodle dish with shrimp, tofu, and fresh herbs."
+    },
+    {
+        "id": 11,
+        "title": "Pasta with Chicken & Veggies",
+        "category": "Lunch",
+        "image": "https://i.ibb.co.com/XkRGXGM/fish-creamy-sauce-carrot-bell-peppers-celery-top-view-1.jpg",
+        "rating": 4.4,
+        "price": 19.49,
+        "details": "Creamy pasta served with chicken, zucchini, and green peas."
+    },
+    {
+        "id": 12,
+        "title": "Club Sandwich Special",
+        "category": "Lunch",
+        "image": "https://i.ibb.co.com/1bHqRLj/stew-chicken-with-vegetables-mushrooms-cream-sauce-1-1.jpg",
+        "rating": 4.4,
+        "price": 14.49,
+        "details": "A hearty club sandwich paired with crispy fries for a fulfilling meal."
+    },
+    {
+        "id": 13,
+        "title": "Stew Chicken Deluxe",
+        "category": "Dinner",
+        "image": "https://i.ibb.co.com/NVrcJ7W/moroccan-stew-with-sausages.jpg",
+        "rating": 4.9,
+        "price": 27.99,
+        "details": "A deluxe version of stew chicken with premium vegetables and a savory sauce."
+    }
+]

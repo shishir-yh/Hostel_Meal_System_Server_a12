@@ -1,110 +1,92 @@
-Daaily Grub
+Daily Grub
+Live Link: Daily Grub
 
-Live Link: Daily GrubAdmin Credentials:
+Admin Credentials for Testing:
 
 Email: pg@gmail.com
-
 Password: 12345aA!
+Overview
+Daily Grub is a Hostel Management System designed for university hostels to streamline meal management and review processes. The platform provides an intuitive interface for students and administrators to efficiently handle daily operations.
 
-About Daily Grub
-
-Daily Grub is a robust Hostel Management System designed for university hostels. It streamlines meal management and review processes, offering both students and administrators an easy-to-use platform to handle daily operations efficiently. Built using the MERN Stack (MongoDB, Express.js, React.js, Node.js), this system is tailored to enhance the student experience while ensuring seamless management for administrators.
+Built with the MERN Stack (MongoDB, Express.js, React.js, Node.js), it ensures seamless meal tracking, food reviews, and administrative control while enhancing the student experience.
 
 Features
-
-User Authentication:
-
-Students and administrators can log in securely with unique credentials.
-
-Admin Dashboard:
-
-Admins can manage student information, meal data, and food reviews efficiently.
-
-Student Portal:
-
-Students can log in to view daily meals and submit feedback or reviews.
-
-Meal Management:
-
-Admins can add, edit, or delete meal entries to ensure accurate daily meal tracking.
-
-Food Reviews:
-
-Students can review meals and leave feedback to improve the dining experience.
-
-Review Moderation:
-
-Admins can edit or delete inappropriate or irrelevant reviews to maintain professionalism.
-
-Dynamic Data Management:
-
-Meal data and reviews update in real-time for a smooth user experience.
-
-Responsive Design:
-
-Fully responsive layout ensures usability across desktops, tablets, and mobile devices.
-
-User-Friendly Interface:
-
-Intuitive design for both admins and students to navigate the system effortlessly.
-
-Secure Data Handling:
-
-Built-in security measures protect user credentials and sensitive data from unauthorized access.
-
-Tech Stack
-
-Frontend: React.js
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Hosting: Firebase
-
-How to Use
-
-Visit the live site: Daily Grub.
-
-Log in as a student or admin using valid credentials.
-
-Students:
-
+🔐 User Authentication
+Secure login system for students and admins with unique credentials.
+🏢 Admin Dashboard
+Manage student information, meal data, and food reviews.
+Moderate reviews to maintain professionalism.
+🍽️ Student Portal
 View daily meal details.
+Submit meal reviews and feedback.
+📊 Meal Management
+Admins can add, edit, and delete meal entries for accurate tracking.
+⭐ Food Reviews & Moderation
+Students can rate and review meals.
+Admins can edit or delete inappropriate reviews.
+⚡ Dynamic & Secure System
+Real-time updates on meal data and reviews.
+Fully responsive design for desktop, tablet, and mobile.
+Security measures to protect user credentials and sensitive data.
+Tech Stack
+Frontend
+React.js
+Backend
+Node.js, Express.js
+Database
+MongoDB
+Hosting
+Firebase
+Dependencies
+React Router
+Axios
+Firebase Authentication
+Express.js
+MongoDB & Mongoose
+bcrypt.js (for password hashing)
+dotenv (for environment variables)
+How to Run the Project Locally
+1️⃣ Clone the repository:
 
-Submit reviews and feedback for meals.
+bash
+Copy
+Edit
+git clone <repo-link>
+cd daily-grub
+2️⃣ Install dependencies:
 
-Admins:
+bash
+Copy
+Edit
+npm install
+cd backend && npm install
+3️⃣ Set up environment variables:
 
-Manage student data.
+Create a .env file in the backend directory with:
+ini
+Copy
+Edit
+MONGO_URI=your-mongodb-connection-string
+FIREBASE_API_KEY=your-firebase-api-key
+4️⃣ Run the servers:
 
-Add, edit, or delete meal entries.
+Frontend:
+bash
+Copy
+Edit
+npm start
+Backend:
+bash
+Copy
+Edit
+node server.js
+5️⃣ Access the app:
 
-Moderate and manage food reviews.
-
-Admin Credentials for Testing
-
-Email: pg@gmail.com
-
-Password: 12345aA!
-
-Installation (For Development)
-
-Clone the repository.
-
-Install dependencies using npm install.
-
-Set up the .env file with the necessary environment variables (e.g., MongoDB URI, Firebase config).
-
-Run the development server using npm start for React and node server.js for the backend.
-
-Access the app at http://localhost:3000.
-
+Open http://localhost:3000 in your browser.
 Contributions
+We welcome contributions! 🚀
 
-We welcome contributions to enhance Daily Grub! Feel free to submit a pull request or open an issue to suggest improvements.
-
+Open an issue or submit a pull request on GitHub.
 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 

@@ -1,6 +1,6 @@
 # Daily Grub
 
-**Live Link:** Daily Grub
+
 **Live Link:** [https://hostel-meal-auth.web.app/]
 
 ## Project Overview

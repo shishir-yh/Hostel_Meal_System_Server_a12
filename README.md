@@ -1,4 +1,4 @@
-Daily Grub
+Daaily Grub
 
 Live Link: Daily GrubAdmin Credentials:
 

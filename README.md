@@ -1,6 +1,7 @@
 # Daily Grub
 
 **Live Link:** Daily Grub
+**Live Link:** [https://hostel-meal-auth.web.app/]
 
 ## Project Overview
 Daily Grub is a robust Hostel Management System designed for university hostels. It streamlines meal management and review processes, offering both students and administrators an easy-to-use platform to handle daily operations efficiently. Built using the MERN Stack (MongoDB, Express.js, React.js, Node.js), this system enhances the student experience while ensuring seamless management for administrators.
